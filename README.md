@@ -10,7 +10,7 @@ For brevity’s sake, short int can be written as just short, and long
 int can be written as just long.
 */
 
- this operator is called = '>> (the extraction operator),'
+ ` >> ` this operator is called = '(the extraction operator),'
 
 Dealing with Integer Wrap Around
 What happens when you increase an integer variable beyond its maximum
@@ -36,9 +36,9 @@ previous enumerator plus one. Because I didn’t assign a value to
 `BOMBER_COST, it’s initialized to 26.`
 
 `
-enum shipCost {FIHGT_COST = 25, BOMBER_COST , CRUISER_COST= 50};
-    shipCost myship  = BOMBER_COST;
-
+enum shipCost {FIHGT_COST = 25, BOMBER_COST , CRUISER_COST= 50};``
+    shipCost myship  = BOMBER_COST;``
+``
     cout << "\nTo upgrade my ship to a cruiser will cost : " << (CRUISER_COST - myship) << " Resource Points. \n";
 `
 
