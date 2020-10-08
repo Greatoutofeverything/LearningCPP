@@ -1,0 +1,3 @@
+C:/Users/barpa/CLionProjects/GameStats2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barpa/CLionProjects/GameStats2/cmake-build-debug/CMakeFiles/GameStats2.dir
+C:/Users/barpa/CLionProjects/GameStats2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

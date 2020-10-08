@@ -1,0 +1,3 @@
+C:/Users/barpa/CLionProjects/VariablesAndTypes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barpa/CLionProjects/VariablesAndTypes/cmake-build-debug/CMakeFiles/VariablesAndTypes.dir
+C:/Users/barpa/CLionProjects/VariablesAndTypes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
