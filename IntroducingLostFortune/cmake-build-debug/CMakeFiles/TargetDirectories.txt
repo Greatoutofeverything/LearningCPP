@@ -1,0 +1,3 @@
+C:/Users/barpa/CLionProjects/IntroducingLostFortune/cmake-build-debug/CMakeFiles/IntroducingLostFortune.dir
+C:/Users/barpa/CLionProjects/IntroducingLostFortune/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barpa/CLionProjects/IntroducingLostFortune/cmake-build-debug/CMakeFiles/rebuild_cache.dir
