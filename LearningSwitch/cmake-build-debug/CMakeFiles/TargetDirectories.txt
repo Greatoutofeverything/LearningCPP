@@ -1,0 +1,3 @@
+C:/Users/barpa/CLionProjects/LearningSwitch/cmake-build-debug/CMakeFiles/LearningSwitch.dir
+C:/Users/barpa/CLionProjects/LearningSwitch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barpa/CLionProjects/LearningSwitch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/barpa/CLionProjects/truth/cmake-build-debug/CMakeFiles/truth.dir
+C:/Users/barpa/CLionProjects/truth/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barpa/CLionProjects/truth/cmake-build-debug/CMakeFiles/rebuild_cache.dir
